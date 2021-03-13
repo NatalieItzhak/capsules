@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  
+}
+
+table {
+    padding: 5px;
+    background-color: bisque; 
+}
+h1{
+    color: burlywood;
+    padding: 10px;
+   
+}
+.search{
+    padding:10px;
+
+}
+
+option , tr , span{
+    color: rgb(236, 101, 169);
+    font-size: 1rem;
+    font-weight: 600;
+    font-family:'Courier New', Courier, monospace;
+}
+td , th {
+    padding: 5px;
+    border-bottom: 1px solid palevioletred;
+}
+button{
+    background-color: rgb(209, 82, 124);
+    color: #fff;
+}
